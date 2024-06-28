@@ -5,4 +5,5 @@
 ![section2 hero banner](https://github.com/Aofficial0/Art--Project/assets/130147615/81a5c0c4-d343-44fe-81cc-e7241cb2fd09)
 
 
-![random nft picker ](https://github.com/Aofficial0/Art--Project/assets/130147615/daaa6d24-bb0b-4c98-bebc-6e37bfd602af)
+![random nft](https://github.com/Aofficial0/Art--Project/assets/130147615/62abe9bb-7c7a-496c-9484-bacbb26577ce)
+
