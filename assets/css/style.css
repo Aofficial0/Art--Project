@@ -112,6 +112,11 @@
       )
       translateZ(180px);
   }
+  
+  .head1{
+    font-size: 40px;
+    
+  }
 }
 .banner2 {
   background-color: #e4e4e4;
